@@ -15,11 +15,12 @@ worklog/    → T — Timeline: dated audit trail of what shipped       (frozen)
 
 ### Session start: orient
 
-Read these two files first, and only these:
-1. [`projects/STATUS.md`](projects/STATUS.md) — a single-file digest of every active / blocked / review project. Tells you what's in flight, where it's stuck, what's next.
-2. [`agenda/AGENDA.md`](agenda/AGENDA.md) — the day-to-day tactical task list.
+Read these first, and only these:
+1. [`PROFILE.md`](PROFILE.md) — who you're working with: role, stack, working style, and any guardrails that need human sign-off. Read this once so you don't have to ask.
+2. [`projects/STATUS.md`](projects/STATUS.md) — a single-file digest of every active / blocked / review project. Tells you what's in flight, where it's stuck, what's next.
+3. [`agenda/AGENDA.md`](agenda/AGENDA.md) — the day-to-day tactical task list.
 
-**Don't open individual project, domain, or worklog files unless a deeper question demands it.** STATUS.md and AGENDA.md are the orientation surface.
+**Don't open individual project, domain, or worklog files unless a deeper question demands it.** PROFILE.md, STATUS.md, and AGENDA.md are the orientation surface.
 
 ### During session: keep projects current
 
