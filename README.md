@@ -1,6 +1,6 @@
 # pact-ai-context
 
-A minimal, file-based context system that gives an AI coding assistant (Claude, Gemini, Codex, Cursor, …) persistent working memory across sessions.
+A minimal, file-based context system that gives an AI coding assistant (Claude, Gemini, Codex, Cursor, …) persistent working memory across sessions. (Read the background and design philosophy in the [LinkedIn post](https://www.linkedin.com/posts/steven-nam-onn-fatt_para-ai-aicontext-share-7469795051867414528-IBl3/?utm_source=share&utm_medium=member_ios&rcm=ACoAADTkyisB1Np8RMp1s-xc886f8QdRsbZFM6g)).
 
 Point your AI tool at this folder and it can answer five questions before you type anything: who am I, what am I working on, what matters today, how does the system work, and what already happened. A top-level [`PROFILE.md`](PROFILE.md) answers the first ("who"); the four PACT modules below answer the rest. This repository is a barebones template — fork it, delete the example content, and fill it with your own work.
 
